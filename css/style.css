@@ -11,3 +11,29 @@ border-width: 10px;
 border-style: none;
 border-top-style: dotted;
 }
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+h2 {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+h3 {
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: normal;
+}
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: lighter;
+    
+}
