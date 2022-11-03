@@ -62,8 +62,11 @@ p {
 .top-cloud-3 {
     height: 200px;
     width: 200px;
+
     position: absolute;
+
     left: 1000px;
+    
     top: 45px;
 }
 
