@@ -71,9 +71,12 @@ p {
     height: 100px;
     width: 100px;
 
+    text-align: center;
+    
     top: 0px;
     bottom: 0px;
     position: relative;
+
     
     
     margin-top: 0px;
