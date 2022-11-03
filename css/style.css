@@ -37,3 +37,38 @@ p {
     font-weight: lighter;
 
 }
+
+.top-cloud-2 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right:  1000px;
+    top: 90px;
+    
+}
+
+.top-cloud-3 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 1000px;
+    top: 45px;
+}
+
+
+
+.mountain {
+    height: 100px;
+    width: 100px;
+
+    top: 0px;
+    bottom: 0px;
+    position: relative;
+    
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
