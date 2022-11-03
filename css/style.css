@@ -38,6 +38,16 @@ p {
 
 }
 
+.top-container {
+    background-color: rgb(52, 157, 232);
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    
+}
+
+
 .top-cloud-2 {
     height: 200px;
     width: 200px;
